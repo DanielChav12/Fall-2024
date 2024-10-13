@@ -2,5 +2,10 @@
 @import 'main.css';
 
 .fa-row {
-background-color: pink;
+background-color: var(--dominatColor) !important;
+padding: 35px;
+}
+
+.fa-row-icon {
+    font-size: 60px;
 }
