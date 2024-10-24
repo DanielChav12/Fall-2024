@@ -51,6 +51,7 @@ margin-right: auto;
   .content-table thead tr {
     border-bottom: 1px solid #dddddd;
     background-color: var(--dominatColor) !important;
+    color:#ffffff;
   }
   
   .content-table tbody tr {
