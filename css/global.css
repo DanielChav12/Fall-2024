@@ -11,10 +11,10 @@
 /* var(--dominatColor) !important; */
 --dominatColor: #49466D;
 
-/* var(secondaryColor) !important; */
+/* var(--secondaryColor) !important; */
 --secondaryColor: #102847;
 
-/* var(accentColor) !important; */
+/* var(--accentColor) !important; */
 --accentColor: #98E2E8;
 
 }
