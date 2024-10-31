@@ -43,6 +43,7 @@ margin-right: auto;
     margin: auto;
     text-align: center;
   }
+
   
   .content-table th, .content-table td {
     padding: 20px;
@@ -90,4 +91,9 @@ margin-right: auto;
     .first-paragraph-img {
       width: 100%;
         }
+  }
+
+  .list-section {
+    padding-top: 30px;
+    padding-bottom: 30px;
   }
