@@ -56,4 +56,5 @@ background-color: #ffffff;
     color: var(--dominatColor) !important;
     position: relative;
     top: 0px;
+    text-decoration: none;
 }
