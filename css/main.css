@@ -51,7 +51,7 @@ padding-bottom: 0px;
 background-color: #ffffff;
 }
 
-.material-symobls-outlined, .material-symobls-outlined a {
+.material-symbols-outlined, .material-symbols-outlined a {
     font-size: 60px;
     color: var(--dominatColor) !important;
     position: relative;
