@@ -40,3 +40,20 @@ h1, h2, h3, h4, h5, h6 {
     padding-left: 12px;
     padding-right: 12px;
 }
+
+.top-logo {
+height: auto;
+font-weight: bolder;
+color: var(--dominatColor) !important;
+font-size: 55px;
+padding-top: 48px;
+padding-bottom: 0px;
+background-color: #ffffff;
+}
+
+.material-symobl-outlined, .material-symobl-outlined a {
+    font-size: 60px;
+    color: var(--dominatColor) !important;
+    position: relative;
+    top: 0px;
+}
