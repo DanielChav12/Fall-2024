@@ -79,3 +79,17 @@ blockquote::before  {
     left: -20px;
     top: -20px;
     color: var(--accentColor) !important;
+}
+
+blockquote cite {
+    color: var(--accentColor) !important;
+    font-size: 14px;
+    display: block;
+    margin-top: 5px;
+
+}
+
+blockquote cite::before {
+    content: "";
+    
+}
