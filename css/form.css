@@ -1,7 +1,7 @@
 .webform {
     position: relative;
     margin: auto;
-    background-color: var(--secondaryColor) !important;
+    background-color: var(--dominatColor) !important;
     padding: 30px;
     margin-top: 25px;
     margin-bottom: 25px;
@@ -23,8 +23,4 @@
 .radio, .checkbox {
     width: 20px !important;
     height: 20px !important;
-}
-
-.form-label {
-    color: var(--accentColor) !important;
 }
