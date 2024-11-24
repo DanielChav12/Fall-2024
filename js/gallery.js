@@ -5,8 +5,8 @@ $( document ).ready(function() {
 
    $("#galleryIMED1316").nanogallery2({
 
-    thumbnailHeight:  "auto",
-    thumbnailWidth:   "450",
+    thumbnailHeight: "auto",
+    thumbnailWidth:  "450",
     thumbnailBorderVertical: "0",
     thumbnailBorderHorizontal: "0",
     thumnailLabel: {
