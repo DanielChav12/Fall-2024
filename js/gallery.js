@@ -10,7 +10,7 @@ $( document ).ready(function() {
     thumbnailBorderVertical: "0",
     thumbnailBorderHorizontal: "0",
     thumnailLabel: {
-        postition: "overImageOnBottom",
+        position: "overImageOnBottom",
         display: false
     },
     thumbnailHoverEffect2: "imageScaleIn80|imageSepiaOff|LabelAppear75",
